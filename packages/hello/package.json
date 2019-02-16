@@ -1,6 +1,6 @@
 {
   "name": "@kamataryo-sandbox/hello",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Hello module",
   "main": "index.js",
   "bin": "cli.js",
