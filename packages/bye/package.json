@@ -12,5 +12,8 @@
     "chalk": "^2.4.2"
   },
   "private": false,
-  "gitHead": "ca7c814866a0ee235ec1ab0fec020823a3f12041"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "dd15cc97b4802d4f3a4337203ccd2aeecc55696e"
 }
