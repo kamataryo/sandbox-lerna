@@ -9,7 +9,11 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@kamataryo-sandbox/bye": "file:../bye",
-    "@kamataryo-sandbox/hello": "file:../hello"
-  }
+    "@kamataryo-sandbox/bye": "^0.1.0",
+    "@kamataryo-sandbox/hello": "^0.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "18375e22d43a81f8ac3dcc51b811bbf031d31d7f"
 }
