@@ -1,6 +1,6 @@
 {
   "name": "@kamataryo-sandbox/hello-goodbye",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "",
   "bin": "cli.js",
   "scripts": {
@@ -9,8 +9,8 @@
   "author": "kamataryo <mugil.cephalus+github.com@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@kamataryo-sandbox/bye": "^0.1.1",
-    "@kamataryo-sandbox/hello": "^0.1.1"
+    "@kamataryo-sandbox/bye": "^0.1.2",
+    "@kamataryo-sandbox/hello": "^0.1.2"
   },
   "publishConfig": {
     "access": "public"
