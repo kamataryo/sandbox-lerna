@@ -10,5 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.2"
-  }
+  },
+  "private": false,
+  "gitHead": "ca7c814866a0ee235ec1ab0fec020823a3f12041"
 }
