@@ -1,8 +1,9 @@
 {
   "name": "@kamataryo-sandbox/bye",
   "version": "0.0.4",
-  "description": "",
+  "description": "Goodbye module.",
   "main": "index.js",
+  "bin": "cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
